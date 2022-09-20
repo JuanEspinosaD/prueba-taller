@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fUkg5+ojPj4+372PFRxVwSr+Z5e/EEguLFfd+nCuD6A8LtNXeXL2x4vIyuEsEVv2rtUyMMsZeni9xaAbpZuPEA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\Proyecto taller\\Taller.App\\Taller.App.Servicio\\Taller.App.Servicio.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Swashbuckle.AspNetCore (>= 6.2.3)' para 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
